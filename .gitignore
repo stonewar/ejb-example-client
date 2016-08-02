@@ -1,0 +1,7 @@
+#Netbeans
+nbproject/private
+nbproject/build-impl.xml
+
+#Ant
+build/
+dist/
